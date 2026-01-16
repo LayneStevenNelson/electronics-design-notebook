@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Introduction.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "README"
             }
           }
         ]
@@ -181,9 +181,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "063c2d78c9aa96b6",
+  "active": "69ca8cc063ee7bef",
   "lastOpenFiles": [
     "Python/Introduction.md",
+    "README.md",
     "KiCad",
     "Python"
   ]
